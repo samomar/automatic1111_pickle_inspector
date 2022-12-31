@@ -1,4 +1,4 @@
-# Stable Diffusion Pickle Scanner
+# Automatic1111 Stable Diffusion Pickle Scanner
 
 ## Introduction
 
