@@ -1,4 +1,4 @@
-# Pickle Scanner Script
+# Stable Diffusion Pickle Scanner
 
 ## Introduction
 
