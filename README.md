@@ -4,6 +4,8 @@
 
 This script is designed to scan a directory and its subdirectories for pickle files. When a pickle file is found, it will be logged to a file called `scan_output.txt`.
 
+This script is the [Stable Diffusion Pickle Scanner](https://github.com/zxix/stable-diffusion-pickle-scanner) by [zxix](https://github.com/zxix).
+
 ## Running the script
 
 To run the script, follow these steps:
